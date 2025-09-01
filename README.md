@@ -105,8 +105,8 @@ flutter build ios --release
 ```
 
 ## 🙏 Acknowledgments
-- Built with [Rocket.new](https://rocket.new)
+- Built with GitNinja
 - Powered by [Flutter](https://flutter.dev) & [Dart](https://dart.dev)
 - Styled with Material Design
 
-Built with ❤️ on Rocket.new
+Built with ❤️ GitNinja
